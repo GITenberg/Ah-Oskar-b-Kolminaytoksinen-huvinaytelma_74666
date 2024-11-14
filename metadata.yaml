@@ -1,0 +1,48 @@
+_repo: Ah-Oskar-b-Kolminaytoksinen-huvinaytelma_74666
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Törmänen, C. Edv.
+    aliases:
+    - Tormanen, C. Edv.
+    - Törmänen, Carl Edward
+    - Törmänen, Edvard
+    - Törmänen, Edw.
+    - Törmänen, Edv.
+    birthdate: 1855
+    deathdate: 1880
+    gutenberg_agent_id: '7521'
+    url: http://www.gutenberg.org/2009/agents/7521
+    wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+creator:
+  author:
+    agent_name: Scribe, Eugène
+    aliases:
+    - Scribe, Eugene
+    - Scribe, Augustin Eugène
+    - Scribe, E. (Eugène)
+    birthdate: 1791
+    deathdate: 1861
+    gutenberg_agent_id: '4444'
+    url: http://www.gutenberg.org/2009/agents/4444
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eugène_Scribe
+    - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Scribe
+description: ''
+gutenberg_issued: '2024-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74666'
+language: fi
+pgterms:marc905: 20240827124230scribe
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ah, Oskar! : $b Kolminäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/74666
